@@ -9,7 +9,7 @@ int main(){
 
 int numero;
 
-cout<<"ingrese un numero"<<endl;
+cout<<"ingrese un numero: ";
 cin>> numero;
 
 for(int i=1;i <= numero; i++){
